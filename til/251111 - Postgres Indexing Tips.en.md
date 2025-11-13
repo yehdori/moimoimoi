@@ -1,7 +1,7 @@
 # 🧠 Today I Learned — PostgreSQL Performance Tuning & Index Internals
 
 While dealing with data loading delays and timeouts during execution of large queries,  
-I整理ed how PostgreSQL actually executes queries, why they become slow,  
+I learned how PostgreSQL actually executes queries, why they become slow,  
 and what role indexes play in all of this.
 
 ---
